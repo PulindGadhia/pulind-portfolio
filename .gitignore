@@ -1,0 +1,27 @@
+# Environment files
+.env
+.env.local
+.env.production
+
+# Local config (if you still use it)
+config.js
+
+# Dependencies
+node_modules/
+
+# macOS
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vercel
+.vercel/
+
+# VS Code
+.vscode/
+
+# Build output (if you ever use a build tool)
+dist/
